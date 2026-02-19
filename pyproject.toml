@@ -11,3 +11,6 @@ build-backend = "hatchling.build"
 
 [project.scripts]
 author-style-esque = "author_style_mcp:mcp"
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]
