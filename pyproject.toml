@@ -1,5 +1,5 @@
 [project]
-name = "author-style-esque"
+name = "aauthor_style_mcp"
 version = "0.1.0"
 description = "Curated catalog of 11 author writing styles decomposed into 8 orthogonal dimensions with dual text/image output paths. Each style is an independent stompbox that colors prompts with structural writing patterns."
 requires-python = ">=3.10"
